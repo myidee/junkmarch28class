@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/junkmarch28class/static/css/main.5a31e55e.css",
+    "main.js": "/junkmarch28class/static/js/main.55bd0889.js",
+    "index.html": "/junkmarch28class/index.html",
+    "main.5a31e55e.css.map": "/junkmarch28class/static/css/main.5a31e55e.css.map",
+    "main.55bd0889.js.map": "/junkmarch28class/static/js/main.55bd0889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a31e55e.css",
+    "static/js/main.55bd0889.js"
+  ]
+}
